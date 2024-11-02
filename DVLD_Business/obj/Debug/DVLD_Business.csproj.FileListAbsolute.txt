@@ -1,0 +1,9 @@
+D:\work\DVLD_Project\DVLD_Business\obj\Debug\DVLD_Business.csproj.AssemblyReference.cache
+D:\work\DVLD_Project\DVLD_Business\obj\Debug\DVLD_Business.csproj.CoreCompileInputs.cache
+D:\work\DVLD_Project\DVLD_Business\bin\Debug\DVLD_Business.dll
+D:\work\DVLD_Project\DVLD_Business\bin\Debug\DVLD_Business.pdb
+D:\work\DVLD_Project\DVLD_Business\bin\Debug\DVLD_Access.dll
+D:\work\DVLD_Project\DVLD_Business\bin\Debug\DVLD_Access.pdb
+D:\work\DVLD_Project\DVLD_Business\obj\Debug\DVLD_Bus.1422E61B.Up2Date
+D:\work\DVLD_Project\DVLD_Business\obj\Debug\DVLD_Business.dll
+D:\work\DVLD_Project\DVLD_Business\obj\Debug\DVLD_Business.pdb
